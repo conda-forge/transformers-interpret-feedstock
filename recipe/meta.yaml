@@ -1,5 +1,5 @@
 {% set name = "transformers-interpret" %}
-{% set version = "0.8.1" %}
+{% set version = "0.9.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/transformers-interpret-{{ version }}.tar.gz
-  sha256: 90c8ba47ebe89f8b4cb77dbb44814158d1bdb77f9f6bbd00e70ec4955f1181d3
+  sha256: f124ee6e831b4be6bcf93be00d47cebb5f98cdf779fd654aab652be95b850d00
 
 build:
   number: 0

@@ -1,11 +1,11 @@
-About transformers-interpret
-============================
+About transformers-interpret-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/transformers-interpret-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/transformers-interpret/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/transformers-interpret-feedstock/blob/main/LICENSE.txt)
 
 Summary: Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.
 
